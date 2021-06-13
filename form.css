@@ -1,0 +1,42 @@
+#b{
+	padding: 10px;
+	text-align: right;
+	color: white;
+}
+#b textarea{
+	width: 173px;
+	height: 70px;
+}
+body{
+	background-color: #008080;
+	font-family: 'Roboto', sans-serif;
+}
+legend{
+	text-align: center;
+	font-size: 34px;
+	color: white;
+}
+fieldset{
+	width: 57%;
+	background-color: #008080;
+	color: white;
+	border-color: white;
+	text-align: center;
+}
+table{
+	color: white;
+	text-align: center;
+}
+#submit{
+	background-color: green;
+	color: white;
+	width: 66px;
+	height: 28px;
+}
+#reset{
+	background-color: red;
+	color: white;
+	width: 66px;
+	height: 28px;
+}
+© 2021 GitHub, In
